@@ -1,0 +1,8 @@
+{
+   "host": "192.168.2.37",
+   "user": "trinity",
+   "passwd": "trinity",
+   "db": "",
+   "port": 3356,
+   "use_pure": true
+}

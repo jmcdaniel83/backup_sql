@@ -1,0 +1,13 @@
+# git ignore file for the project level
+
+# ignore folders
+sql/
+_log/
+
+# python specific
+__pycache__/
+
+# vscode specific
+.vscode/
+
+# EOF
